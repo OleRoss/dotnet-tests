@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetTests", "DotnetTests\DotnetTests.csproj", "{2C424D31-3C82-445D-8191-EEF15E3B5C06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C424D31-3C82-445D-8191-EEF15E3B5C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C424D31-3C82-445D-8191-EEF15E3B5C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C424D31-3C82-445D-8191-EEF15E3B5C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C424D31-3C82-445D-8191-EEF15E3B5C06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
